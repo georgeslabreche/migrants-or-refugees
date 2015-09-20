@@ -3,7 +3,7 @@
 [(source)](http://www.cracked.com/personal-experiences-1916-we-met-syrias-war-refugees-7-awful-things-they-told-us.html "source")
 
 ### What is this?
-This is but a minuscule response to irresponsible journalism covering the Syrian refugee crisis. A Chrome extension that replaces instances of the word **_Migrant_** to a more approariate one: **_Refugee_**.
+This is but a minuscule response to irresponsible journalism covering the Syrian refugee crisis. A string replacement Chrome extension that corrects the articles you are reading on your browser by replacing occurrences of the word **_Migrant_** to a more appropriate one: **_Refugee_**.
 
 ### How does it work?
 #### Before:
