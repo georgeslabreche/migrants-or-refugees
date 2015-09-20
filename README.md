@@ -7,10 +7,10 @@ This is but a minuscule response to irresponsible journalism covering the Syrian
 
 ### How does it work?
 #### Before:
-![]({{site.baseurl}}/screenshots/before.png)
+![](https://raw.githubusercontent.com/georgeslabreche/migrants-or-refugees/master/screenshots/before.png)
 
 #### After:
-![]({{site.baseurl}}/screenshots/after.png)
+![](https://raw.githubusercontent.com/georgeslabreche/migrants-or-refugees/master/screenshots/after.png)
 
 ### How can you help?
 Help by donating to [UNHCR Syria Crisis Urgent Appeal](http://donate.unhcr.org/international/syria)
