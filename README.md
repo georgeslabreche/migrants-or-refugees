@@ -13,4 +13,4 @@ This is but a minuscule response to irresponsible journalism covering the Syrian
 ![](https://raw.githubusercontent.com/georgeslabreche/migrants-or-refugees/master/screenshots/after.png)
 
 ### How can you help?
-Help by donating to [UNHCR Syria Crisis Urgent Appeal](http://donate.unhcr.org/international/syria)
+Help by donating to [UNHCR Syria Crisis Urgent Appeal](http://donate.unhcr.org/international/syria).
