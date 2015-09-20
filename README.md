@@ -5,6 +5,9 @@
 ### What is this?
 This is but a minuscule response to irresponsible journalism covering the Syrian refugee crisis. A string replacement Chrome extension that corrects the articles you are reading on your browser by replacing occurrences of the word **_Migrant_** to a more appropriate one: **_Refugee_**.
 
+### How do I install it?
+You will need Google Chrome. Download and install it from the [Google Chrome Store](https://chrome.google.com/webstore/detail/migrants-or-refugees/enlckkfbfhididjbfakklobenfofmaeg).
+
 ### How does it work?
 #### Before:
 ![](https://raw.githubusercontent.com/georgeslabreche/migrants-or-refugees/master/screenshots/before.png)
